@@ -1,0 +1,14 @@
+.dashboard
+{
+    width:         75%;
+    padding:       20px;
+    border-radius: 15px;
+    margin-left:   10px;
+    background-color: #534c59;
+}
+
+.dashboard-content
+{
+    border-radius:    5px;
+    background-color: #47424c;
+}

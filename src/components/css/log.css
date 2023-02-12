@@ -1,0 +1,66 @@
+.log
+{
+    border-radius:      15px;
+    width:              25%;
+    padding:            20px;
+    background-color: #534c59;
+
+    overflow:   hidden;
+    overflow-y: scroll;
+}
+
+.log-itens
+{
+    font-size: 19px;
+    padding: 5px;
+}
+
+.log-itens, .log-itens p, .log i
+{
+    background-color: transparent;
+}
+
+.log-itens p
+{
+    padding: 5px;
+    margin:  0px;
+}
+
+.item-cargo
+{
+    color:          white;
+    padding:       5px;
+    margin:        0px;
+    border-radius: 15px;
+}
+
+.item-name
+{
+    font-size: 30px;
+    background-color: transparent;
+}
+
+.log-itens a
+{
+    padding:            5px;
+    border-radius:      15px;
+    display:            block;
+    text-decoration:    none;
+    color:            #353239;
+    background-color: #665e6d;
+}
+
+body::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+}
+  
+body::-webkit-scrollbar-track {
+    background: orange;        /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: blue;    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid orange;  /* creates padding around scroll thumb */
+}
+  

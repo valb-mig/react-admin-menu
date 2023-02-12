@@ -1,0 +1,23 @@
+*
+{
+    background-color: #353239;
+}
+
+/* body
+{
+    overflow:   hidden;
+} */
+
+.content
+{
+    display: flex;
+    margin-left: 80px;
+    flex-direction: column;
+}
+
+.content-boxes
+{
+    height:         91vh;
+    display:        flex;
+    flex-direction: row;
+}

@@ -1,0 +1,42 @@
+.sidebar-itens, .sidebar-itens i, .sidebar-itens a
+{
+    border-radius:   15px;
+    text-decoration: none;
+}
+
+.sidebar-itens
+{
+    margin-top:    5px;
+}
+
+.sidebar-itens i
+{
+    color:          #353239;
+    background-color: transparent;
+}
+
+.sidebar-itens a
+{
+    display:        block;
+    padding-top:    20px;
+    padding-bottom: 20px;
+    text-align:     center;
+    background-color: #665e6d;
+}
+
+.sidebar
+{
+    position:      fixed;
+    border-radius: 15px;
+    width:         70px;
+    height:        100%;
+    padding:       5px;
+    background-color: #534c59;    
+}
+
+.sidebar-itens a:hover
+{
+    padding-top:    40px;
+    padding-bottom: 40px;
+    background-image: linear-gradient(to right, #ac00b0 , #9800c8);
+}

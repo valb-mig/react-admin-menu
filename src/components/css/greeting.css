@@ -1,0 +1,17 @@
+.greeting p
+{
+    background-color: transparent;
+}
+
+.greeting a
+{
+    font-size:       30px;
+    padding:         2%;
+    padding-left:    2%;
+    margin-bottom:   10px;
+    border-radius:   15px;
+    display:         block;
+    text-decoration: none;
+    background-color:#534c59;
+    color:           #353239;
+}
