@@ -17,7 +17,7 @@
 
 .content-boxes
 {
-    height:         91vh;
+    height:          80vh;
     display:        flex;
     flex-direction: row;
 }
