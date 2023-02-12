@@ -12,7 +12,7 @@ function Itens(props){
 function Sidebar() {
   return (
     <div className='sidebar'>
-      <Itens icon="user" link="#"/>
+      <Itens icon="home" link="#"/>
       <Itens icon="link" link="#"/>
       <Itens icon="link" link="#"/>
       <Itens icon="link" link="#"/>

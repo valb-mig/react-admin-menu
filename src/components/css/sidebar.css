@@ -11,17 +11,20 @@
 
 .sidebar-itens i
 {
+
     color:          #353239;
     background-color: transparent;
 }
 
 .sidebar-itens a
 {
+    font-size:      30px;
     display:        block;
-    padding-top:    20px;
-    padding-bottom: 20px;
+    padding-top:    10px;
+    padding-bottom: 10px;
     text-align:     center;
     background-color: #665e6d;
+    box-shadow: 0px 0px 10px #1b191d6d;
 }
 
 .sidebar
@@ -32,11 +35,18 @@
     height:        100%;
     padding:       5px;
     background-color: #534c59;    
+    box-shadow: 0px 0px 10px #1b191d;
 }
 
 .sidebar-itens a:hover
 {
+    background-color: #897e93;
+}
+
+.sidebar-itens a:focus
+{
     padding-top:    40px;
     padding-bottom: 40px;
     background-image: linear-gradient(to right, #ac00b0 , #9800c8);
+    box-shadow: 0px 0px 5px #be00b468;
 }

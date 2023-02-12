@@ -1,17 +1,21 @@
 .greeting p
 {
-    background-color: transparent;
+    text-align:        center;
+    padding:           10px;
+    border-radius:     15px;
+    background-color: #665e6d;
+    box-shadow: 0px 0px 10px #1b191d6d;
 }
 
 .greeting a
 {
     font-size:       30px;
     padding:         2%;
-    padding-left:    2%;
     margin-bottom:   10px;
     border-radius:   15px;
     display:         block;
     text-decoration: none;
     background-color:#534c59;
     color:           #353239;
+    box-shadow: 0px 0px 10px #1b191d;
 }

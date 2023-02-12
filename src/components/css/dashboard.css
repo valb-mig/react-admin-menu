@@ -5,10 +5,71 @@
     border-radius: 15px;
     margin-left:   10px;
     background-color: #534c59;
+    box-shadow: 0px 0px 10px #1b191d;
+
 }
 
 .dashboard-content
 {
-    border-radius:    5px;
+    border-radius:     15px;
     background-color: #47424c;
+}
+
+.dashboard-out
+{
+    height:         70vh;
+    background-color: #47424c;
+}
+
+.dashboard-months
+{
+    border-radius:    15px;
+    background-color: #59525f;
+}
+
+.dashboard-bundle
+{
+    height:         80vh;
+    padding:        10px;
+    border-radius:  15px;
+    background-color: #47424c;
+}
+
+.dashboard-months p 
+{
+    padding-top:       1%;
+    padding-bottom:    1%;
+    width:             39%;
+    margin:            0.8%;
+    color:           white;
+    text-align:        center;
+    background-color:  transparent;
+}
+
+.bar
+{
+    border-radius:  15px;
+}
+
+.months
+{
+    display:          flex;
+    margin-left:      40px;
+    margin-right:     1px;
+    padding-top:      2px;
+    padding-bottom:   2px;
+    background-color: transparent;
+}
+
+.actual-month
+{
+    text-align:        center;
+    padding-top:       1%;
+    padding-bottom:    1%;
+    border-radius:     15px;
+    margin:            0.8%;
+    width:             39%;
+    color:           white;
+    background-image: linear-gradient(to right, #ac00b0 , #9800c8);
+    box-shadow: 0px 0px 10px #1b191d6d;
 }

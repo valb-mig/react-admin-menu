@@ -4,6 +4,7 @@
     width:              25%;
     padding:            20px;
     background-color: #534c59;
+    box-shadow: 0px 0px 10px #1b191d;
 
     overflow:   hidden;
     overflow-y: scroll;
@@ -48,6 +49,12 @@
     text-decoration:    none;
     color:            #353239;
     background-color: #665e6d;
+    box-shadow: 0px 0px 10px #1b191d6d;
+}
+
+.log-itens a:hover
+{
+    background-color: #897e93;
 }
 
 body::-webkit-scrollbar {
