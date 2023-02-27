@@ -21,14 +21,14 @@ function Registro(props){
 function Log() {
   return (
     <div className='log'>
-        <Registro id="1" nome="Jhon Doe" idade="20" cidade="Boston" cargo="Analista de Sistemas"/>
-        <Registro id="2" nome="Jhon Doe" idade="20" cidade="Boston" cargo="Analista de Sistemas"/>
-        <Registro id="3" nome="Jhon Doe" idade="20" cidade="Boston" cargo="Analista de Sistemas"/>
-        <Registro id="3" nome="Jhon Doe" idade="20" cidade="Boston" cargo="Analista de Sistemas"/>
-        <Registro id="3" nome="Jhon Doe" idade="20" cidade="Boston" cargo="Analista de Sistemas"/>
-        <Registro id="3" nome="Jhon Doe" idade="20" cidade="Boston" cargo="Analista de Sistemas"/>
-        <Registro id="3" nome="Jhon Doe" idade="20" cidade="Boston" cargo="Analista de Sistemas"/>
-        <Registro id="3" nome="Jhon Doe" idade="20" cidade="Boston" cargo="Analista de Sistemas"/>
+        <Registro id="1" nome="Jhon Doe" idade="20" cidade="Boston" cargo="Placeholder"/>
+        <Registro id="2" nome="Jhon Doe" idade="20" cidade="Boston" cargo="Placeholder"/>
+        <Registro id="3" nome="Jhon Doe" idade="20" cidade="Boston" cargo="Placeholder"/>
+        <Registro id="3" nome="Jhon Doe" idade="20" cidade="Boston" cargo="Placeholder"/>
+        <Registro id="3" nome="Jhon Doe" idade="20" cidade="Boston" cargo="Placeholder"/>
+        <Registro id="3" nome="Jhon Doe" idade="20" cidade="Boston" cargo="Placeholder"/>
+        <Registro id="3" nome="Jhon Doe" idade="20" cidade="Boston" cargo="Placeholder"/>
+        <Registro id="3" nome="Jhon Doe" idade="20" cidade="Boston" cargo="Placeholder"/>
     </div>
   )
 }
