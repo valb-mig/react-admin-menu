@@ -3,21 +3,22 @@
     background-color: #353239;
 }
 
-/* body
+.main
 {
-    overflow:   hidden;
-} */
+    display: flex;
+    padding: 10px;
+
+    overflow-y: hidden;
+}
 
 .content
 {
-    display: flex;
-    margin-left: 80px;
-    flex-direction: column;
+    margin-left: 10px;
+    width: 100%;
 }
 
 .content-boxes
 {
-    height:          80vh;
-    display:        flex;
-    flex-direction: row;
+    display: flex;
+    height:  82vh;
 }
